@@ -1,2 +1,3 @@
-# First-Template
-My First Simple Template
+# template1
+
+My First JS template
